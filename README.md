@@ -1,3 +1,7 @@
+# Lean的Openwrt源码仓库自用fork，原版请访问Lean[https://github.com/coolsnowwolf/lede]
+---
+
+
 欢迎来到Lean的Openwrt源码仓库！
 =
 Welcome to Lean's  git source of OpenWrt and packages
